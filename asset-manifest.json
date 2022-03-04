@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kuel321/LJSDesign/static/css/main.07c59382.css",
+    "main.js": "/kuel321/LJSDesign/static/js/main.981fcab6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/kuel321/LJSDesign/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project3.jpg": "/kuel321/LJSDesign/static/media/project3.a49df575d3e3a6812608.jpg",
+    "static/media/light.ttf": "/kuel321/LJSDesign/static/media/light.0a89fe38505661051946.ttf",
+    "static/media/medium.ttf": "/kuel321/LJSDesign/static/media/medium.bc56cfc10feb515d6622.ttf",
+    "static/media/project1.jpg": "/kuel321/LJSDesign/static/media/project1.9824f5b3918b194af7ad.jpg",
+    "static/media/project2.jpg": "/kuel321/LJSDesign/static/media/project2.b1b9318f3cf26f550391.jpg",
+    "static/media/logo.svg": "/kuel321/LJSDesign/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kuel321/LJSDesign/index.html",
+    "main.07c59382.css.map": "/kuel321/LJSDesign/static/css/main.07c59382.css.map",
+    "main.981fcab6.js.map": "/kuel321/LJSDesign/static/js/main.981fcab6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/kuel321/LJSDesign/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c59382.css",
+    "static/js/main.981fcab6.js"
+  ]
+}
